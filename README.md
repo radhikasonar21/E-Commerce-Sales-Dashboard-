@@ -39,4 +39,5 @@ Integrate role-based access and row-level security
 Create advanced drill-through pages for deep insights
 
 Screenshots:
-1. 
+1. https://github.com/radhikasonar21/E-Commerce-Sales-Dashboard-/blob/main/Sales%20SS1.png
+2. 
