@@ -40,4 +40,4 @@ Create advanced drill-through pages for deep insights
 
 Screenshots:
 1. https://github.com/radhikasonar21/E-Commerce-Sales-Dashboard-/blob/main/Sales%20SS1.png
-2. 
+2. https://github.com/radhikasonar21/E-Commerce-Sales-Dashboard-/blob/main/Sales%20SS2.png
